@@ -1,0 +1,11 @@
+.\objects\stm32f10x_fatfs.o: stm32f10x_fatfs.c
+.\objects\stm32f10x_fatfs.o: stm32f10x_fatfs.h
+.\objects\stm32f10x_fatfs.o: .\cmsis_boot\stm32f10x.h
+.\objects\stm32f10x_fatfs.o: .\cmsis\core_cm3.h
+.\objects\stm32f10x_fatfs.o: C:\Keil_v5_1\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f10x_fatfs.o: .\cmsis\core_cmInstr.h
+.\objects\stm32f10x_fatfs.o: .\cmsis\core_cmFunc.h
+.\objects\stm32f10x_fatfs.o: .\cmsis_boot\system_stm32f10x.h
+.\objects\stm32f10x_fatfs.o: .\fatfs\ff.h
+.\objects\stm32f10x_fatfs.o: .\fatfs\integer.h
+.\objects\stm32f10x_fatfs.o: .\fatfs\ffconf.h

@@ -1,0 +1,13 @@
+.\objects\diskio.o: fatfs\diskio.c
+.\objects\diskio.o: fatfs\diskio.h
+.\objects\diskio.o: fatfs\integer.h
+.\objects\diskio.o: ..\STM32F1_MICROSD-master\stm32f10x_microsd.h
+.\objects\diskio.o: .\cmsis_boot\stm32f10x.h
+.\objects\diskio.o: .\cmsis\core_cm3.h
+.\objects\diskio.o: C:\Keil_v5_1\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\diskio.o: .\cmsis\core_cmInstr.h
+.\objects\diskio.o: .\cmsis\core_cmFunc.h
+.\objects\diskio.o: .\cmsis_boot\system_stm32f10x.h
+.\objects\diskio.o: .\stm_lib\inc\stm32f10x_gpio.h
+.\objects\diskio.o: .\stm_lib\inc\stm32f10x_rcc.h
+.\objects\diskio.o: .\stm_lib\inc\stm32f10x_spi.h

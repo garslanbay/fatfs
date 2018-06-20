@@ -1,0 +1,14 @@
+.\objects\main.o: main.c
+.\objects\main.o: .\cmsis_boot\stm32f10x.h
+.\objects\main.o: .\cmsis\core_cm3.h
+.\objects\main.o: C:\Keil_v5_1\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: .\cmsis\core_cmInstr.h
+.\objects\main.o: .\cmsis\core_cmFunc.h
+.\objects\main.o: .\cmsis_boot\system_stm32f10x.h
+.\objects\main.o: .\fatfs\ff.h
+.\objects\main.o: .\fatfs\integer.h
+.\objects\main.o: .\fatfs\ffconf.h
+.\objects\main.o: .\fatfs\diskio.h
+.\objects\main.o: .\bsp\open103z_systick.h
+.\objects\main.o: .\stm_lib\inc\stm32f10x_gpio.h
+.\objects\main.o: .\stm_lib\inc\stm32f10x_rcc.h

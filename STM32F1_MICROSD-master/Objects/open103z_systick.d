@@ -1,0 +1,10 @@
+.\objects\open103z_systick.o: bsp\open103z_systick.c
+.\objects\open103z_systick.o: bsp\open103z_systick.h
+.\objects\open103z_systick.o: .\cmsis_boot\stm32f10x.h
+.\objects\open103z_systick.o: .\cmsis\core_cm3.h
+.\objects\open103z_systick.o: C:\Keil_v5_1\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\open103z_systick.o: .\cmsis\core_cmInstr.h
+.\objects\open103z_systick.o: .\cmsis\core_cmFunc.h
+.\objects\open103z_systick.o: .\cmsis_boot\system_stm32f10x.h
+.\objects\open103z_systick.o: .\stm_lib\inc\stm32f10x_gpio.h
+.\objects\open103z_systick.o: .\stm_lib\inc\stm32f10x_rcc.h

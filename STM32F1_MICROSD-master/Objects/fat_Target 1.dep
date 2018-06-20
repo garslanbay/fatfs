@@ -1,0 +1,109 @@
+Dependencies for Project 'fat', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5B2AC206)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (.\cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+I (.\fatfs\ff.h)(0x55A4C38A)
+I (.\fatfs\integer.h)(0x55A4C38A)
+I (.\fatfs\ffconf.h)(0x55A4C38A)
+I (.\fatfs\diskio.h)(0x55A4C38A)
+I (.\bsp\open103z_systick.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_gpio.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_rcc.h)(0x55A4C38A)
+F (.\stm32f10x_fatfs.c)(0x55A4C38A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\stm32f10x_fatfs.o --omf_browse .\objects\stm32f10x_fatfs.crf --depend .\objects\stm32f10x_fatfs.d)
+I (stm32f10x_fatfs.h)(0x55A4C38A)
+I (.\cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (.\cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+I (.\fatfs\ff.h)(0x55A4C38A)
+I (.\fatfs\integer.h)(0x55A4C38A)
+I (.\fatfs\ffconf.h)(0x55A4C38A)
+F (.\cmsis_boot\system_stm32f10x.c)(0x55A4C38A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+F (.\startup_stm32f10x_md.s)(0x4D788322)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 522" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (.\fatfs\diskio.c)(0x55A4C38A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\diskio.o --omf_browse .\objects\diskio.crf --depend .\objects\diskio.d)
+I (fatfs\diskio.h)(0x55A4C38A)
+I (fatfs\integer.h)(0x55A4C38A)
+I (..\STM32F1_MICROSD-master\stm32f10x_microsd.h)(0x55A4C38A)
+I (.\cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (.\cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_gpio.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_rcc.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_spi.h)(0x55A4C38A)
+F (.\fatfs\ff.c)(0x55A4C38A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\ff.o --omf_browse .\objects\ff.crf --depend .\objects\ff.d)
+I (fatfs\ff.h)(0x55A4C38A)
+I (fatfs\integer.h)(0x55A4C38A)
+I (fatfs\ffconf.h)(0x55A4C38A)
+I (.\cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (.\cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+I (fatfs\diskio.h)(0x55A4C38A)
+F (.\stm_lib\src\stm32f10x_gpio.c)(0x5B2AC510)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (.\cmsis_boot\stm32f10x_conf.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_gpio.h)(0x55A4C38A)
+I (.\cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (.\cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_rcc.h)(0x55A4C38A)
+F (.\stm_lib\src\stm32f10x_rcc.c)(0x5B2AC524)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (.\cmsis_boot\stm32f10x_conf.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_rcc.h)(0x55A4C38A)
+I (.\cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (.\cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+F (.\stm_lib\src\stm32f10x_spi.c)(0x5B2AC524)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\stm32f10x_spi.o --omf_browse .\objects\stm32f10x_spi.crf --depend .\objects\stm32f10x_spi.d)
+I (.\cmsis_boot\stm32f10x_conf.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_spi.h)(0x55A4C38A)
+I (.\cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (.\cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_rcc.h)(0x55A4C38A)
+F (.\bsp\open103z_systick.c)(0x55A4C38A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\open103z_systick.o --omf_browse .\objects\open103z_systick.crf --depend .\objects\open103z_systick.d)
+I (bsp\open103z_systick.h)(0x55A4C38A)
+I (.\cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (.\cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_gpio.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_rcc.h)(0x55A4C38A)
+F (.\fatfs\SPI_MSD_Driver.c)(0x55A4C38A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\fatfs -I .\stm_lib\inc -I .\bsp -I .\cmsis -I .\cmsis_boot -I ..\STM32F1_MICROSD-master-IC:\Users\gokhan\Desktop\STM32F1_MICROSD-master\RTE\_Target_1-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\spi_msd_driver.o --omf_browse .\objects\spi_msd_driver.crf --depend .\objects\spi_msd_driver.d)
+I (fatfs\SPI_MSD_Driver.h)(0x55A4C38A)
+I (.\cmsis_boot\stm32f10x.h)(0x55A4C38A)
+I (.\cmsis\core_cm3.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\cmsis\core_cmInstr.h)(0x55A4C38A)
+I (.\cmsis\core_cmFunc.h)(0x55A4C38A)
+I (.\cmsis_boot\system_stm32f10x.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_gpio.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_rcc.h)(0x55A4C38A)
+I (.\stm_lib\inc\stm32f10x_spi.h)(0x55A4C38A)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdio.h)(0x57F64D08)
